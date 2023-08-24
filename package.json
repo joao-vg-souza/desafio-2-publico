@@ -28,7 +28,6 @@
     "vue": "^2.6.11",
     "vuetify": "^2.6.3",
     "vuetify-loader": "^1.7.3",
-
     "@babel/preset-env": "^7.6.3",
     "@vue/babel-preset-app": "^4.4.6",
     "@vue/cli-plugin-babel": "~4.4.6",
